@@ -54,7 +54,7 @@ def main():
             break
 
     state = {
-        "last_scanned_id": message_id - 1,
+        "last_scanned_id": highest_hit,
         "videos": {str(mid): {"total_uses": 0, "last_used": None, "history": []} for mid in found},
     }
     with open(STATE_PATH, "w", encoding="utf-8") as f:
