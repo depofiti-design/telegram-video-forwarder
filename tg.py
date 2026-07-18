@@ -36,6 +36,10 @@ def call(token, method, params, retries=5):
                 time.sleep(retry_after + 1)
                 continue
             raise TelegramError(desc, code)
+        except (urllib.error.URLError, OSError, TimeoutError) as e:
+            if attempt == retries - 1:
+                raise TelegramError(f"network error: {e}")
+            time.sleep(3 * (attempt + 1))
     raise TelegramError("retries exhausted for " + method)
 
 
