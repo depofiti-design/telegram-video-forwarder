@@ -1,5 +1,5 @@
 {
-  "last_scanned_id": 1688,
+  "last_scanned_id": 1706,
   "videos": {
     "2": {
       "total_uses": 1,
@@ -7102,29 +7102,54 @@
       ]
     },
     "712": {
-      "total_uses": 0,
-      "last_used": null,
-      "history": []
+      "total_uses": 1,
+      "last_used": "2026-07-31",
+      "history": [
+        {
+          "channel": "-1003965787626",
+          "date": "2026-07-31"
+        }
+      ]
     },
     "713": {
-      "total_uses": 0,
-      "last_used": null,
-      "history": []
+      "total_uses": 1,
+      "last_used": "2026-07-31",
+      "history": [
+        {
+          "channel": "-1003336352400",
+          "date": "2026-07-31"
+        }
+      ]
     },
     "714": {
-      "total_uses": 0,
-      "last_used": null,
-      "history": []
+      "total_uses": 1,
+      "last_used": "2026-07-31",
+      "history": [
+        {
+          "channel": "-1003907423237",
+          "date": "2026-07-31"
+        }
+      ]
     },
     "715": {
-      "total_uses": 0,
-      "last_used": null,
-      "history": []
+      "total_uses": 1,
+      "last_used": "2026-07-31",
+      "history": [
+        {
+          "channel": "-1003924824277",
+          "date": "2026-07-31"
+        }
+      ]
     },
     "716": {
-      "total_uses": 0,
-      "last_used": null,
-      "history": []
+      "total_uses": 1,
+      "last_used": "2026-07-31",
+      "history": [
+        {
+          "channel": "-1003919149618",
+          "date": "2026-07-31"
+        }
+      ]
     },
     "717": {
       "total_uses": 0,
@@ -11982,6 +12007,96 @@
       "history": []
     },
     "1688": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1689": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1690": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1691": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1692": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1693": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1694": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1695": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1696": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1697": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1698": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1699": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1700": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1701": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1702": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1703": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1704": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1705": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1706": {
       "total_uses": 0,
       "last_used": null,
       "history": []
