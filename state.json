@@ -1,5 +1,5 @@
 {
-  "last_scanned_id": 1746,
+  "last_scanned_id": 1786,
   "videos": {
     "2": {
       "total_uses": 1,
@@ -13252,29 +13252,54 @@
       ]
     },
     "1327": {
-      "total_uses": 0,
-      "last_used": null,
-      "history": []
+      "total_uses": 1,
+      "last_used": "2026-08-12",
+      "history": [
+        {
+          "channel": "-1003965787626",
+          "date": "2026-08-12"
+        }
+      ]
     },
     "1328": {
-      "total_uses": 0,
-      "last_used": null,
-      "history": []
+      "total_uses": 1,
+      "last_used": "2026-08-12",
+      "history": [
+        {
+          "channel": "-1003336352400",
+          "date": "2026-08-12"
+        }
+      ]
     },
     "1329": {
-      "total_uses": 0,
-      "last_used": null,
-      "history": []
+      "total_uses": 1,
+      "last_used": "2026-08-12",
+      "history": [
+        {
+          "channel": "-1003907423237",
+          "date": "2026-08-12"
+        }
+      ]
     },
     "1330": {
-      "total_uses": 0,
-      "last_used": null,
-      "history": []
+      "total_uses": 1,
+      "last_used": "2026-08-12",
+      "history": [
+        {
+          "channel": "-1003924824277",
+          "date": "2026-08-12"
+        }
+      ]
     },
     "1331": {
-      "total_uses": 0,
-      "last_used": null,
-      "history": []
+      "total_uses": 1,
+      "last_used": "2026-08-12",
+      "history": [
+        {
+          "channel": "-1003919149618",
+          "date": "2026-08-12"
+        }
+      ]
     },
     "1332": {
       "total_uses": 0,
@@ -15347,6 +15372,206 @@
       "history": []
     },
     "1746": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1747": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1748": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1749": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1750": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1751": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1752": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1753": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1754": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1755": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1756": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1757": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1758": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1759": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1760": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1761": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1762": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1763": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1764": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1765": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1766": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1767": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1768": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1769": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1770": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1771": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1772": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1773": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1774": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1775": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1776": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1777": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1778": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1779": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1780": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1781": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1782": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1783": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1784": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1785": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1786": {
       "total_uses": 0,
       "last_used": null,
       "history": []
