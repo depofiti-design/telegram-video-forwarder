@@ -1,5 +1,5 @@
 {
-  "last_scanned_id": 1822,
+  "last_scanned_id": 1848,
   "videos": {
     "2": {
       "total_uses": 1,
@@ -15252,29 +15252,54 @@
       ]
     },
     "1527": {
-      "total_uses": 0,
-      "last_used": null,
-      "history": []
+      "total_uses": 1,
+      "last_used": "2026-08-15",
+      "history": [
+        {
+          "channel": "-1003965787626",
+          "date": "2026-08-15"
+        }
+      ]
     },
     "1528": {
-      "total_uses": 0,
-      "last_used": null,
-      "history": []
+      "total_uses": 1,
+      "last_used": "2026-08-15",
+      "history": [
+        {
+          "channel": "-1003336352400",
+          "date": "2026-08-15"
+        }
+      ]
     },
     "1529": {
-      "total_uses": 0,
-      "last_used": null,
-      "history": []
+      "total_uses": 1,
+      "last_used": "2026-08-15",
+      "history": [
+        {
+          "channel": "-1003907423237",
+          "date": "2026-08-15"
+        }
+      ]
     },
     "1530": {
-      "total_uses": 0,
-      "last_used": null,
-      "history": []
+      "total_uses": 1,
+      "last_used": "2026-08-15",
+      "history": [
+        {
+          "channel": "-1003924824277",
+          "date": "2026-08-15"
+        }
+      ]
     },
     "1531": {
-      "total_uses": 0,
-      "last_used": null,
-      "history": []
+      "total_uses": 1,
+      "last_used": "2026-08-15",
+      "history": [
+        {
+          "channel": "-1003919149618",
+          "date": "2026-08-15"
+        }
+      ]
     },
     "1532": {
       "total_uses": 0,
@@ -16727,6 +16752,136 @@
       "history": []
     },
     "1822": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1823": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1824": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1825": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1826": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1827": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1828": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1829": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1830": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1831": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1832": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1833": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1834": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1835": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1836": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1837": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1838": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1839": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1840": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1841": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1842": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1843": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1844": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1845": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1846": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1847": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1848": {
       "total_uses": 0,
       "last_used": null,
       "history": []
