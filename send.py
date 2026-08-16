@@ -22,7 +22,7 @@ from tg import copy_message, delete_message, TelegramError
 
 STATE_PATH = "state.json"
 INCREMENTAL_SCAN_LIMIT = 40
-MAX_JITTER_SECONDS = 480  # up to 8 minutes, keeps sends inside their window but not robotically on the dot
+MAX_JITTER_SECONDS = 45  # small variance only - GitHub Actions minutes are billed even while sleeping
 
 TR_TZ = timezone(timedelta(hours=3))
 
