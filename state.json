@@ -954,52 +954,72 @@
       ]
     },
     "70": {
-      "total_uses": 1,
-      "last_used": "2026-07-20",
+      "total_uses": 2,
+      "last_used": "2026-08-23",
       "history": [
         {
           "channel": "-1003924824277",
           "date": "2026-07-20"
+        },
+        {
+          "channel": "-1003965787626",
+          "date": "2026-08-23"
         }
       ]
     },
     "71": {
-      "total_uses": 1,
-      "last_used": "2026-07-20",
+      "total_uses": 2,
+      "last_used": "2026-08-23",
       "history": [
         {
           "channel": "-1003919149618",
           "date": "2026-07-20"
+        },
+        {
+          "channel": "-1003336352400",
+          "date": "2026-08-23"
         }
       ]
     },
     "72": {
-      "total_uses": 1,
-      "last_used": "2026-07-20",
+      "total_uses": 2,
+      "last_used": "2026-08-23",
       "history": [
         {
           "channel": "-1003965787626",
           "date": "2026-07-20"
+        },
+        {
+          "channel": "-1003907423237",
+          "date": "2026-08-23"
         }
       ]
     },
     "73": {
-      "total_uses": 1,
-      "last_used": "2026-07-20",
+      "total_uses": 2,
+      "last_used": "2026-08-23",
       "history": [
         {
           "channel": "-1003336352400",
           "date": "2026-07-20"
+        },
+        {
+          "channel": "-1003924824277",
+          "date": "2026-08-23"
         }
       ]
     },
     "74": {
-      "total_uses": 1,
-      "last_used": "2026-07-20",
+      "total_uses": 2,
+      "last_used": "2026-08-23",
       "history": [
         {
           "channel": "-1003907423237",
           "date": "2026-07-20"
+        },
+        {
+          "channel": "-1003919149618",
+          "date": "2026-08-23"
         }
       ]
     },
