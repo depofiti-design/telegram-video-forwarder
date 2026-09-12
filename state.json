@@ -1,5 +1,5 @@
 {
-  "last_scanned_id": 1888,
+  "last_scanned_id": 1928,
   "videos": {
     "2": {
       "total_uses": 2,
@@ -23014,29 +23014,54 @@
       ]
     },
     "1854": {
-      "total_uses": 0,
-      "last_used": null,
-      "history": []
+      "total_uses": 1,
+      "last_used": "2026-09-12",
+      "history": [
+        {
+          "channel": "-1003965787626",
+          "date": "2026-09-12"
+        }
+      ]
     },
     "1855": {
-      "total_uses": 0,
-      "last_used": null,
-      "history": []
+      "total_uses": 1,
+      "last_used": "2026-09-12",
+      "history": [
+        {
+          "channel": "-1003336352400",
+          "date": "2026-09-12"
+        }
+      ]
     },
     "1856": {
-      "total_uses": 0,
-      "last_used": null,
-      "history": []
+      "total_uses": 1,
+      "last_used": "2026-09-12",
+      "history": [
+        {
+          "channel": "-1003907423237",
+          "date": "2026-09-12"
+        }
+      ]
     },
     "1857": {
-      "total_uses": 0,
-      "last_used": null,
-      "history": []
+      "total_uses": 1,
+      "last_used": "2026-09-12",
+      "history": [
+        {
+          "channel": "-1003924824277",
+          "date": "2026-09-12"
+        }
+      ]
     },
     "1858": {
-      "total_uses": 0,
-      "last_used": null,
-      "history": []
+      "total_uses": 1,
+      "last_used": "2026-09-12",
+      "history": [
+        {
+          "channel": "-1003919149618",
+          "date": "2026-09-12"
+        }
+      ]
     },
     "1859": {
       "total_uses": 0,
@@ -23184,6 +23209,206 @@
       "history": []
     },
     "1888": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1889": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1890": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1891": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1892": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1893": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1894": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1895": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1896": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1897": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1898": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1899": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1900": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1901": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1902": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1903": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1904": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1905": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1906": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1907": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1908": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1909": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1910": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1911": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1912": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1913": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1914": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1915": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1916": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1917": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1918": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1919": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1920": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1921": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1922": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1923": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1924": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1925": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1926": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1927": {
+      "total_uses": 0,
+      "last_used": null,
+      "history": []
+    },
+    "1928": {
       "total_uses": 0,
       "last_used": null,
       "history": []
